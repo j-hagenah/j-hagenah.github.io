@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jannis Hagenah | Artificial Intelligence in Medicine"
+title                    : "Artificial Intelligence in Medicine"
 title_separator          : "-"
 name                     : &name "Jannis Hagenah"
 description              : &description "personal description"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@jannishagenah"
+  twitter          : "jannishagenah"
   vine             :
   weibo            :
   xing             :
