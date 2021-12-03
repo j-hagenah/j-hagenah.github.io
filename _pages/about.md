@@ -14,7 +14,7 @@ Before that, I worked at the University of Lübeck in the [Institute for Robotic
 
 I am a member of the young researchers board of the [Medical Imaging with Deep Learning Foundation (MIDL)](https://www.midl.io) and served in the organization committees of several MIDL events (Chair at [MIDL Winter Workshop 2021](https://www.midl.io/winter-workshop.html), Chair at [MIDL Doctoral Symposium 2021](https://2021.midl.io/doctoral-symposium.html), Social Chair and Virtual Arrangement Organizer at [MIDL 2021](https://2021.midl.io)). I am reviewing regularly for journals (e.g. Medical Image Analysis, The Lancet Digital Health, IJCARS, ...) and conferences (e.g. MIDL, IEEE BHI, BMT, CURAC, ...).
 
-Besides my research, I am eager to share my expertise with open minds of all ages. Therefore, I taught Artificial Intelligence and Machine Learning at the University of Oxford, the University of Lübeck, and the University of Applied Sciences Vienna (Fachhochschule Wien der WKW, organized via the [AIHE](https://academic-institute.com/en/)). Apart fro academic teaching, I am author of several online courses on Machine Learning for practitioners from industry and held workshops on Artificial Intelligence for non-technical audience.
+Besides my research, I am eager to share my expertise with open minds of all ages. Therefore, I taught Artificial Intelligence and Machine Learning at the University of Oxford, the University of Lübeck, and the University of Applied Sciences Vienna (Fachhochschule Wien der WKW, organized via the [AIHE](https://academic-institute.com/en/)). Apart from academic teaching, I am author of several online courses on Machine Learning for practitioners from industry and held workshops on Artificial Intelligence for non-technical audience.
 
 
 
