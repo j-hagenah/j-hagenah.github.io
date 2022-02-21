@@ -17,6 +17,21 @@ I am a member of the young researchers board of the [Medical Imaging with Deep L
 Besides my research, I am eager to share my expertise with open minds of all ages. Therefore, I taught Artificial Intelligence and Machine Learning at the University of Oxford, the University of Lübeck and the University of Applied Sciences Vienna (Fachhochschule Wien der WKW, organized via the [AIHE](https://academic-institute.com/en/)). Apart from academic teaching, I am author of several online courses on Machine Learning for practitioners from industry and held workshops on Artificial Intelligence for non-technical audience.
 
 
+## Publications
+
+For an up-to-date list of my publications, please visit my [Google Scholar Profile](https://tinyurl.com/jhagenah).
+
+## Awards
+
+* 1st Price ”Best Short Oral Presentation” Audience Award, Medical Imaging with Deep Learning (MIDL) 2021 (First Author)
+* Best Reviewer Award ”Outstanding Reviewer”, Medical Imaging with Deep Learn- ing (MIDL) 2021
+* 1st Price ”KUKA Best Paper” Award, Annual Conference of the German Society for Computer- and Robot-Assisted Surgery (CURAC), 2020 (First Author)
+* Best Reviewer Award ”Honorably Mention”, Medical Imaging with Deep Learning (MIDL) 2020
+* 3rd Price ”MR in Radiation Therapy - Study Group Award 2019”, Annual Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM), 2019
+(Co-Author)
+* 1st Price ”Best Presentation” Award, Student Conference on Biomedical Engineer- ing, 2015 (First Author)
+* ”Josephinerpreis”, school price for outstanding school engagement, 2009
+
 
 
 
