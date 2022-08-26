@@ -10,7 +10,7 @@ redirect_from:
 
 I am a researcher in Artificial Intelligence in Medicine with strong interests in Medical Image and Signal Analysis, Medical Robotics, Personalized Medicine and Healthcare in Ressource-Constrained Settings. Currently, I am a postdoctral researcher at the University of Oxford in the [Computational Health Informatics](https://eng.ox.ac.uk/chi/) Lab of Prof. David Clifton. 
 
-Before that, I worked at the University of Lübeck in the [Institute for Robotics and Cognitive Systems](https://www.rob.uni-luebeck.de/index.php?id=267) where I pursued my doctoral degree under the supervision of Prof. Floris Ernst. I hold a Master of Science and a Bachelor of Science in Medical Engineering Science, both from the University of Lübeck, with a strong focus on applied mathematics and computer science. During my studies, I was intern at the [Xi'an Jiaotong University](http://en.xjtu.edu.cn) and at [Dräger](https://www.draeger.com/).
+Before that, I worked at the University of Lübeck in the [Institute for Robotics and Cognitive Systems](https://www.rob.uni-luebeck.de/index.php?id=267) where I pursued my doctoral degree under the supervision of Prof. Floris Ernst. My thesis was awarded the "Fokusfinder Preis 2022" from the [Initiative Bildverarbeitung e.V.](https://www.initiative-bildverarbeitung.de/home/). I hold a Master of Science and a Bachelor of Science in Medical Engineering Science, both from the University of Lübeck, with a strong focus on applied mathematics and computer science. During my studies, I was intern at the [Xi'an Jiaotong University](http://en.xjtu.edu.cn) and at [Dräger](https://www.draeger.com/).
 
 I am a member of the young researchers board of the [Medical Imaging with Deep Learning Foundation (MIDL)](https://www.midl.io) and served in the organization committees of several MIDL events (Chair at [MIDL Winter Workshop 2021](https://www.midl.io/winter-workshop.html), Chair at [MIDL Doctoral Symposium 2021](https://2021.midl.io/doctoral-symposium.html), Social Chair and Virtual Arrangement Organizer at [MIDL 2021](https://2021.midl.io)). I am reviewing regularly for journals (e.g. Medical Image Analysis, The Lancet Digital Health, IJCARS, ...) and conferences (e.g. MIDL, IEEE BHI, BMT, CURAC, ...).
 
@@ -23,6 +23,7 @@ For an up-to-date list of my publications, please visit my [Google Scholar Profi
 
 ## Awards
 
+* "Fokusfinder Preis 2022" for outstanding dissertation in image processing, Initiative Bildverarbeitung e.V., 2022
 * 1st Price ”Best Short Oral Presentation” Audience Award, Medical Imaging with Deep Learning (MIDL) 2021 (First Author)
 * Best Reviewer Award ”Outstanding Reviewer”, Medical Imaging with Deep Learn- ing (MIDL) 2021
 * 1st Price ”KUKA Best Paper” Award, Annual Conference of the German Society for Computer- and Robot-Assisted Surgery (CURAC), 2020 (First Author)
