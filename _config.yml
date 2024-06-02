@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Artificial Intelligence in Medicine"
+title                    : "Making Surgery Intelligent"
 title_separator          : "-"
 name                     : &name "Jannis Hagenah"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jannis Hagenah"
   avatar           : "MIDL_profilepic.png"
-  bio              : "Researcher in Medical AI at University of Oxford"
-  location         : "Oxford, UK"
+  bio              : "Professor for Digital and Robotic Surgery"
+  location         : "Göttingen, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=BcxOhBsAAAAJ&hl=en"
