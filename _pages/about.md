@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jannis Hagenah - Artificial Intelligence in Medicine"
+title: "Jannis Hagenah - Making Surgery Intelligent"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
